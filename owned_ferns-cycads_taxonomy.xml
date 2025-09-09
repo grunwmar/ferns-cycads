@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<document xmlns="mg91.cz/xmlns/plant-taxonomy"
+          xmlns:name="mg91.cz/xmlns/plant-taxonomy/multilang-name">
+<taxon name="Tracheophyta" name:cs="Cévnaté rostliny" name:he="צמחים וסקולריים">
+    <span name="Pterydophyta" name:cs="Kapraďorosty" name:he="שרכנים">
+    <division name="Lycopodiophyta" name:cs="Plavuně" name:he="בעלי קשקשים">
+        <class name="Lycopodiopsida" name:cs="Plavuně" name:he="ליקופודים">
+            <order name="Lycopodiales" name:cs="Plavuňotvaré" name:he="ליקופודיים">
+                <family name="Lycopodiaceae" name:cs="Plavuňovité" name:he="רגלי זאב">
+                    <genus name="Phlegmariurus" name:cs="Vranec">
+                        <species name="squarrosus" name:cs="Vranec kostrbatý" />
+                        <species name="carinatus" />
+                    </genus>
+                </family>
+            </order>
+            <order name="Selaginellales" name:cs="Vranečkotvaré" name:he="סלגינליים">
+                <family name="Selaginelaceae" name:cs="Vranečkovité" name:he="סלגינלים">
+                    <genus name="Selaginella" name:cs="Vraneček" name:he="סלגינל">
+                        <species name="Selaginella uncinata" />
+                        <species name="Selaginella willdenowii" />
+                        <species name="Selaginella apoda" />
+                        <species name="Selaginella erythropus" />
+                        <species name="Selaginella martensii" />
+                    </genus>
+                </family>
+            </order>
+        </class>
+    </division>
+    <division name="Polypodiophyta" name:cs="Kapradiny" name:he="שרכים">
+        <class name="Polupodiopsida" name:cs="Kapradiny" name:he="שרכאים">
+        <span name="Eusporangiate"></span>
+        <span name="Leptosporangiate">
+            <taxon name="Polypoiidiae" name:cs="Leptosporangiátní kapradiny">
+                <order name="Osmundales" name:cs="Podezřeňotvaré">
+                    <family name="Osmundaceae" name:cs="Podezřeňovité">
+                        <genus name="Osmunda" name:cs="Podezřeň">
+                            <species name="Osmunda regalis" name:cs="Podezřeň královská" />
+                        </genus>
+                    </family>
+                </order>
+                <order name="Salviniales" name:cs="Salviniotvaré" name:he="שרכי מים">
+                    <family name="Salviniaceae" name:cs="Salviniovité">
+                        <genus name="Salvinia" name:cs="Nepukalka">
+                            <species name="Salvinia natans" name:cs="Nepukalka vzplývající" />
+                        </genus>
+                        <genus name="Azolla">
+                            <species name="Azolla filiculoides" />
+                        </genus>
+                    </family>
+                    <family name="Marsileaceae" name:cs="Marsilkovité">
+                        <genus name="Marsilea" name:cs="Marsilka">
+                            <species name="Marsilea hirsuta" />
+                            <species name="Marsilea quadrifolia" name:cs="Marsilka čtyřlistá" />
+                        </genus>
+                    </family>
+                </order>
+                <order name="Polypodiales" name:cs="Osladičotvaré" name:he="שרכיים">
+                    <family name="Aspleniaceae" name:cs="Sleziníkovité"></family>
+                    <family name="Athyriaceae" name:cs="Papratkovité"></family>
+                    <family name="Dryopteridaceae" name:cs="Kapraďovité"></family>
+                    <family name="Davalliaceae"></family>
+                    <family name="Nephrolepidaceae" name:cs="Ledviníkovité"></family>
+                    <family name="Polypodiaceae" name:cs="Osladičovité">
+                        <genus name="Phlebodium"></genus>
+                        <genus name="Platycerium" name:cs="Parožnatka"></genus>
+                    </family>
+                    <family name="Pteridaceae" name:cs="Křídelnicovité" name:he="אברתיים"></family>
+                    <family name="Onocleaceae" name:cs="Zavřitcovité"></family>
+                </order>
+            </taxon>
+        </span>
+        </class>
+    </division>
+    </span>
+    <span name="Spermatophyta" name:cs="Semenné rostliny">
+        <division name="Cycadophyta" name:cs="Cykasy">
+            <class name="Cycadopsida" name:cs="Cykasy" name:he="ציקסאים">
+                <order name="Cycadales" name:cs="Cykasotvaré">
+                    <family name="Cycadaceae" name:cs="Cykasovité" name:he="ציקסים">
+                        <genus name="Cycas" name:cs="Cykas">
+                            <species name="Cycas debaoensis" />
+                            <species name="Cycas revoluta" name:cs="Cykas japonský" />
+                        </genus>
+                    </family>
+                    <family name="Zamiaceae" name:cs="Kejákovité">
+                        <genus name="Zamia" name:cs="Keják">
+                            <species name="Zamia furfuracea" name:cs="Keják otrubnatý" />
+                        </genus>
+                        <genus name="Macrozamia">
+                            <species name="Macrozamia stenomera" />
+                        </genus>
+                        <genus name="Ceratozamia">
+                            <species name="Ceratozamia hildae" />
+                        </genus>
+                        <genus name="Dioon" name:cs="Dión">
+                            <species name="Dioon edule" name:cs="Dión jedlý" />
+                        </genus>
+                        <genus name="Encephalartos" name:cs="Píchoš">
+                             <species name="Encephalartos villosus" name:cs="Píchoš huňatý" />
+                        </genus>
+                    </family>
+                </order>
+            </class>
+        </division>
+    </span>
+</taxon>
+</document>
+      
